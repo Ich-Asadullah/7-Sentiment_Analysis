@@ -8,7 +8,7 @@ This repository contains a Jupyter notebook and pre-trained LSTM, GRU models for
 
 - **`LSTM_Sentiment_Analysis.ipynb`**: A Jupyter notebook that contains the code for training and evaluating the LSTM model on the sentiment analysis task. The notebook includes data preprocessing, model training, and evaluation steps.
 - **`LSTM_model.pth`**: A PyTorch model file containing the weights of the trained LSTM model. This file can be used to load the pre-trained model for inference or further fine-tuning.
-- - **`gru_model.pth`**: A PyTorch model file containing the weights of the trained GRU model. This file can be used to load the pre-trained model for inference or further fine-tuning.
+- **`gru_model.pth`**: A PyTorch model file containing the weights of the trained GRU model. This file can be used to load the pre-trained model for inference or further fine-tuning.
 
 ## Installation
 
