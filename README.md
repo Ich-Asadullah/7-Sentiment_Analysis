@@ -18,7 +18,6 @@ To run the notebook and use the model, you need to have the following packages i
 - `numpy`
 - `pandas`
 - `scikit-learn`
-- `torch`
 - `tensorflow`
 
 You can install these packages using pip:
